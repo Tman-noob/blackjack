@@ -1,0 +1,20 @@
+body {
+    background-image: url(pexels-thgusstavo-2224832.jpg);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: white;
+}
+
+h1 {
+    color: goldenrod;
+    font-size: 3rem;
+    font-weight: 700;
+}
+
+#message-el {
+    font-size: 1.5rem;
+    font-weight: 600;
+    font-style: italic;
+}
